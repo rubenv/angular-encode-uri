@@ -20,7 +20,7 @@ Add it to your HTML file:
 Reference it as a dependency for your app module:
 
 ```js
-angular.module('myApp', ['rt.encodeUri']);
+angular.module('myApp', ['rt.encodeuri']);
 ```
 
 Use it in your views:
