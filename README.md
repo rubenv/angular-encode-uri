@@ -2,6 +2,8 @@
 
 > Encode URIs through a filter.
 
+[![Build Status](https://travis-ci.org/rubenv/angular-encode-uri.png?branch=master)](https://travis-ci.org/rubenv/angular-encode-uri)
+
 ## Usage
 Add angular-encode-uri to your project:
 
