@@ -1,6 +1,6 @@
 {
   "name": "angular-encode-uri",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Encode URIs through a filter.",
   "main": "dist/angular-encode-uri.js",
   "directories": {
