@@ -1,6 +1,6 @@
 {
   "name": "angular-encode-uri",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "dist/angular-encode-uri.js",
   "ignore": [
     "**/.*",
