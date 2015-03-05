@@ -14,4 +14,8 @@ describe('Filter', function () {
     it('Encodes URIs: space', function () {
         expect(encodeUri(' ')).toEqual('%20');
     });
+    
+        it('Encodes URIs: space', function () {
+        expect(encodeUri('/')).toEqual('%2F');
+    });
 });
